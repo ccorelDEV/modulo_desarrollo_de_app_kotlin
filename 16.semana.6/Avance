@@ -1,0 +1,2 @@
+Filter
+nos permite acumular los resultados de nuestros filtros de diferentes arrays. Se llama filterTo y lleva una copia de la lista mutable a una matriz mutable determinada.
